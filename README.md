@@ -8,7 +8,7 @@ Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SC
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-My social media links are ->
+My social media links are ->																																																																										
 -> Twitter at https://twitter.com/Arindam04806544
 -> Linkdin at https://www.linkedin.com/in/arindam-paul-9bb196203/
 -> Reach out to me arindampaul526@gmail.com this mail
