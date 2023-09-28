@@ -5,12 +5,14 @@ I usually work with design systems and ui-component based react projects and mak
 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
 My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma
 Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
-
+<br>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-My social media links are ->																																																																										
+<br>
+My social media links are ->																																																																								<br>
 -> Twitter at https://twitter.com/Arindam04806544
+<br>
 -> Linkdin at https://www.linkedin.com/in/arindam-paul-9bb196203/
+<br>
 -> Reach out to me arindampaul526@gmail.com this mail
 
 
