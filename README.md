@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there I am Arindam Paul👋
 I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
 I usually work with design systems and ui-component based react projects and make complex and beautiful components.
 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
