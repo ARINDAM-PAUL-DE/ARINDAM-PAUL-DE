@@ -1,21 +1,33 @@
+<div align="center">
 
-### Hi there I am Arindam Paul👋
-I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
-I usually work with design systems and ui-component based react projects and make complex and beautiful components.
-I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
-My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma
-Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
-<br>
-<br>
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-<br>
-<br>
-My social media links are ->																																																																								<br>
--> Twitter at https://twitter.com/Arindam04806544
-<br>
--> Linkdin at https://www.linkedin.com/in/arindam-paul-9bb196203/
-<br>
--> Reach out to me at this mail arindampaul526@gmail.com 
+# Hi there, I'm Arindam Paul 👋
+</div>
+
+I'm a Frontend Developer with a passion for creating beautiful user interfaces and design systems. I work with a variety of technologies, primarily in the JavaScript ecosystem, including React, Next.js, and Node.js. I also enjoy working with design tools like Figma.
+
+🚀 **My Tech Stack:**
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Figma
+
+🌟 **Languages I Know:**
+- JavaScript
+- TypeScript
+- Python
+- C/C++
+- Java
+- SQL
+- HTML
+- CSS/SCSS
+
+🌐 **Connect with me:**
+- Twitter: [![Twitter](https://img.shields.io/twitter/follow/Arindam04806544?label=Follow&style=social)](https://twitter.com/Arindam04806544)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arindam-paul-9bb196203/)
+- Email: [arindampaul526@gmail.com](mailto:arindampaul526@gmail.com)
+
+Feel free to reach out to me; I'd love to connect and collaborate on exciting projects!
+
 
 
 
