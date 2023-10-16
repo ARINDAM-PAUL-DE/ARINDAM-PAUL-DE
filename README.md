@@ -6,17 +6,18 @@
 I'm a Frontend Developer with a passion for creating beautiful user interfaces and design systems. I work with a variety of technologies, primarily in the JavaScript ecosystem, including React, Next.js, and Node.js. I also enjoy working with design tools like Figma.
 
 🚀 **My Tech Stack:**
+- React.js
 - Next.js
 - TypeScript
 - Tailwind CSS
 - Figma
+- Redux-toolkit
 
 🌟 **Languages I Know:**
 - JavaScript
 - TypeScript
 - Python
 - C/C++
-- Java
 - SQL
 - HTML
 - CSS/SCSS
