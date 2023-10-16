@@ -7,9 +7,7 @@ My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma
 Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
 <br>
 <br>
-<br>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-<br>
 <br>
 <br>
 My social media links are ->																																																																								<br>
